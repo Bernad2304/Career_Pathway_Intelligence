@@ -31,3 +31,27 @@ Graduates in Tamil Nadu often choose a degree or upskilling path with little vis
 ---
 
 ## Architecture
+
+---
+
+## Key Findings
+
+- **IT Jobs is the single largest category** in Tamil Nadu's job market by posting volume, ahead of Sales, Engineering, and Accounting & Finance
+- Within IT Jobs specifically, **Java, Python, JavaScript, and SQL** are the most consistently requested skills
+- **B.Sc Mathematics** graduates hold a strong statistics/logic foundation, but the syllabus (verified against the official University of Madras curriculum) offers **only elective, non-guaranteed exposure** to programming and zero exposure to SQL, Excel, or BI tools — despite these being in active market demand
+- Soft skills like **Leadership and Communication** rank above several hard technical skills in overall posting frequency
+
+---
+
+## Data Sources & Honest Assumptions
+
+- **Job postings:** Adzuna API (India, Tamil Nadu) — official, free tier
+- **Skill taxonomy:** Built from real skill patterns in current Indian job postings — not exhaustive, but grounded in genuine sources
+- **Degree eligibility mapping:** General domain knowledge (AI-assisted reference), indicative rather than sourced from an official regulatory body — except the B.Sc Mathematics curriculum analysis, which is directly cited from the official University of Madras syllabus
+- **Company field:** ~5% of postings have no disclosed employer, consistent with recruitment-agency listings that intentionally omit the hiring company
+- **Salary data intentionally excluded** — Adzuna salary figures are sometimes platform-estimated rather than employer-stated; this project prioritizes claims that can be fully defended over completeness
+- **Skill extraction method:** Regex/keyword matching, not AI/LLM classification — chosen deliberately for full explainability and reproducibility over black-box accuracy
+
+---
+
+## Project Structure
