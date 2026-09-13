@@ -55,3 +55,44 @@ Graduates in Tamil Nadu often choose a degree or upskilling path with little vis
 ---
 
 ## Project Structure
+
+---
+
+## Setup
+
+```bash
+python -m venv venv
+venv\Scripts\activate          # Windows
+pip install -r requirements.txt
+cp .env.example .env            # then add your real Adzuna credentials
+```
+
+Run the pipeline in order:
+
+```bash
+python scripts/00_extract_adzuna_jobs.py
+python scripts/01_extract_skills.py
+python scripts/02_build_kpi_summary.py
+python scripts/03_skill_gap_analysis.py
+python scripts/04_merge_for_powerbi.py
+python scripts/04_job_listing.py
+```
+
+---
+
+## Automation
+
+The full pipeline runs weekly via n8n — extraction through Power BI export — with automated success/failure email notifications, so data freshness never depends on manual execution.
+
+---
+
+<div align="center">
+
+### Author
+
+**Bernad Meckenzi S**
+Aspiring Data Analyst / BI Analyst
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bernad2304)
+
+</div>
