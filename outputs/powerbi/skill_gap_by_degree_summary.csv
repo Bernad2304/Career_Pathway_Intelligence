@@ -1,0 +1,52 @@
+degree,primary_job_sector,gap_score
+Any UG degree,Sales Jobs,273.0
+B.Com,Sales Jobs,136.5
+BBA,Sales Jobs,136.5
+BA (Communications/Economics/Marketing),Sales Jobs,136.5
+M.Com,Sales Jobs,136.5
+BMS,Sales Jobs,136.5
+BBM,Sales Jobs,136.5
+PGDM,Sales Jobs,136.5
+B.Sc Mathematics,IT Jobs,133.5
+B.Sc (Statistics/Actuarial Science),Accounting & Finance Jobs,56.0
+B.Com (Accounting & Finance),Accounting & Finance Jobs,23.0
+M.Sc (Finance/Actuarial Science),Accounting & Finance Jobs,23.0
+M.Des,Engineering Jobs,20.5
+MA (Organizational Psychology),HR & Recruitment Jobs,20.5
+BSW,HR & Recruitment Jobs,20.5
+B.Arch,Engineering Jobs,20.5
+BA (Psychology/Sociology/Organizational Psychology),HR & Recruitment Jobs,20.5
+B.Des,Engineering Jobs,20.5
+MSW,HR & Recruitment Jobs,20.5
+M.Arch,Engineering Jobs,20.5
+B.Tech/B.E (Mechanical/Civil/EEE/ECE/Chemical/Aerospace/Robotics),Engineering Jobs,19.5
+M.Tech/M.E (Structural/Thermal/Power Systems/VLSI/Robotics),Engineering Jobs,19.5
+BA (English/Communications/Psychology),Customer Services Jobs,19.5
+Master of Financial Management (MFM),Accounting & Finance Jobs,19.0
+MA (Communications),Customer Services Jobs,18.0
+B.Com (Hons),Accounting & Finance Jobs,15.5
+M.Com,Accounting & Finance Jobs,15.5
+BBA (Finance),Accounting & Finance Jobs,11.5
+BA (Public Administration/Office Management),Admin Jobs,9.0
+MA (Public Administration),Admin Jobs,9.0
+MBA (Operations/General Management),Admin Jobs,7.5
+MBA (Finance),Accounting & Finance Jobs,7.5
+Master of Human Resource Management (MHRM),HR & Recruitment Jobs,5.5
+BBA (HR),HR & Recruitment Jobs,5.5
+MBA (HRM),HR & Recruitment Jobs,4.0
+B.Sc (Culinary Arts/Hospitality),Hospitality & Catering Jobs,2.0
+PG Diploma in Customer Relationship Management,Customer Services Jobs,1.5
+BHM (Hotel Management),Hospitality & Catering Jobs,1.0
+MHM (Master of Hotel Management),Hospitality & Catering Jobs,1.0
+BHMCT,Hospitality & Catering Jobs,1.0
+MBA (Hospitality),Hospitality & Catering Jobs,0.5
+MTTM (Tourism & Travel Management),Hospitality & Catering Jobs,0.5
+B.Tech/B.E (CS/IT/AI/Software Engg),IT Jobs,0.0
+B.Sc (Computer Science/Data Science/IT),IT Jobs,0.0
+M.Tech/M.E (CS/AI/Data Science),IT Jobs,0.0
+BCA,IT Jobs,0.0
+M.Sc (CS/IT/Data Science),IT Jobs,0.0
+MCA,IT Jobs,0.0
+MBA (Marketing/International Business),Sales Jobs,0.0
+MIB (Master of International Business),Sales Jobs,0.0
+PGP in Business Analytics,IT Jobs,0.0

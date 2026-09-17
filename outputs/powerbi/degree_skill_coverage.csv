@@ -1,0 +1,58 @@
+degree,level,primary_job_sector,it_data_coverage,accounting_finance_coverage,sales_marketing_coverage,hr_admin_coverage,customer_service_coverage,soft_skills_coverage,notes
+B.Tech/B.E (CS/IT/AI/Software Engg),UG,IT Jobs,Core,None,None,None,None,Partial,Strong programming/data structures core
+BCA,UG,IT Jobs,Core,None,None,None,None,Partial,Programming-focused; less theory-heavy than B.Tech
+B.Sc (Computer Science/Data Science/IT),UG,IT Jobs,Core,None,None,None,None,Partial,Direct overlap with SQL/Python/stats
+M.Tech/M.E (CS/AI/Data Science),PG,IT Jobs,Core,None,None,None,None,Partial,Advanced/specialized IT & Data skills
+MCA,PG,IT Jobs,Core,None,None,None,None,Partial,Postgrad equivalent of BCA depth
+M.Sc (CS/IT/Data Science),PG,IT Jobs,Core,None,None,None,None,Partial,Research + applied programming
+PGP in Business Analytics,PG,IT Jobs,Core,Partial,None,None,None,Partial,Bridges IT & Data with business framing
+BBA,UG,Sales Jobs,None,Partial,Partial,Partial,Partial,Partial,General business exposure across domains
+B.Com,UG,Sales Jobs,None,Core,Partial,None,None,None,Strong accounting/finance grounding
+BMS,UG,Sales Jobs,None,Partial,Partial,Partial,Partial,Partial,Similar to BBA - generalist management
+BBM,UG,Sales Jobs,None,Partial,Partial,Partial,Partial,Partial,Similar to BBA - generalist management
+BA (Communications/Economics/Marketing),UG,Sales Jobs,None,None,Partial,None,Partial,Core,Strong communication and market awareness
+Any UG degree,UG,Sales Jobs,None,None,None,None,None,Partial,Generic eligibility only - no specific skill coverage
+MBA (Marketing/International Business),PG,Sales Jobs,None,None,Core,Partial,None,Core,Strong strategic marketing coverage
+PGDM,PG,Sales Jobs,None,Partial,Partial,Partial,None,Core,Similar to MBA - applied management focus
+M.Com,PG,Sales Jobs,None,Core,Partial,None,None,None,Advanced accounting/finance depth
+MIB (Master of International Business),PG,Sales Jobs,None,None,Core,None,None,Core,Global business/trade focus
+B.Tech/B.E (Mechanical/Civil/EEE/ECE/Chemical/Aerospace/Robotics),UG,Engineering Jobs,Partial,None,None,None,None,Partial,Programming exposure varies by branch
+B.Des,UG,Engineering Jobs,None,None,None,None,None,Partial,Design-focused; tools outside current taxonomy
+B.Arch,UG,Engineering Jobs,None,None,None,None,None,Partial,Design-focused; tools outside current taxonomy
+M.Tech/M.E (Structural/Thermal/Power Systems/VLSI/Robotics),PG,Engineering Jobs,Partial,None,None,None,None,Partial,Specialized technical depth; limited business skills
+M.Des,PG,Engineering Jobs,None,None,None,None,None,Partial,Advanced design; tools outside current taxonomy
+M.Arch,PG,Engineering Jobs,None,None,None,None,None,Partial,Advanced design; tools outside current taxonomy
+B.Com (Hons),UG,Accounting & Finance Jobs,None,Core,Partial,None,None,None,Deeper accounting rigor than standard B.Com
+B.Com (Accounting & Finance),UG,Accounting & Finance Jobs,None,Core,None,None,None,None,Specialized accounting/finance track
+BBA (Finance),UG,Accounting & Finance Jobs,None,Core,Partial,None,None,Partial,Finance-focused BBA specialization
+B.Sc (Statistics/Actuarial Science),UG,Accounting & Finance Jobs,Partial,Partial,None,None,None,None,Strong stats foundation; no tool/software training
+M.Com,PG,Accounting & Finance Jobs,None,Core,Partial,None,None,None,Advanced accounting/finance depth
+MBA (Finance),PG,Accounting & Finance Jobs,None,Core,Partial,None,None,Core,Strategic finance + business communication
+Master of Financial Management (MFM),PG,Accounting & Finance Jobs,None,Core,None,None,None,Partial,Specialized financial management
+M.Sc (Finance/Actuarial Science),PG,Accounting & Finance Jobs,Partial,Core,None,None,None,None,Advanced quantitative finance
+BBA (HR),UG,HR & Recruitment Jobs,None,None,None,Core,None,Partial,Direct HR process training
+BA (Psychology/Sociology/Organizational Psychology),UG,HR & Recruitment Jobs,None,None,None,Partial,None,Core,Strong people-understanding foundation
+BSW,UG,HR & Recruitment Jobs,None,None,None,Partial,Partial,Core,Social work grounding; people-facing skills
+MBA (HRM),PG,HR & Recruitment Jobs,None,None,None,Core,None,Core,Strategic HR + strong communication
+Master of Human Resource Management (MHRM),PG,HR & Recruitment Jobs,None,None,None,Core,None,Partial,Specialized HR depth
+MA (Organizational Psychology),PG,HR & Recruitment Jobs,None,None,None,Partial,None,Core,Deep people/behavior focus
+MSW,PG,HR & Recruitment Jobs,None,None,None,Partial,Partial,Core,Advanced social work practice
+BJMC (Journalism & Mass Comm),UG,PR Advertising & Marketing Jobs,None,None,Partial,None,None,Core,Strong writing/communication training
+BA (Advertising/Media Studies/Mass Comm),UG,PR Advertising & Marketing Jobs,None,None,Partial,None,None,Core,Media and messaging focused
+BBA (Marketing),UG,PR Advertising & Marketing Jobs,None,None,Core,None,None,Partial,Direct marketing specialization
+MJMC,PG,PR Advertising & Marketing Jobs,None,None,Partial,None,None,Core,Advanced media/journalism practice
+MBA (Marketing/Public Relations),PG,PR Advertising & Marketing Jobs,None,None,Core,None,None,Core,Strategic marketing + PR depth
+MA (Mass Communication/Strategic Advertising),PG,PR Advertising & Marketing Jobs,None,None,Core,None,None,Core,Advanced strategic communication
+BA (Public Administration/Office Management),UG,Admin Jobs,None,None,None,Partial,None,Partial,Administrative process exposure
+MBA (Operations/General Management),PG,Admin Jobs,Partial,None,None,Partial,None,Core,Broad management + some analytics exposure
+MA (Public Administration),PG,Admin Jobs,None,None,None,Partial,None,Partial,Governance/administration focus
+BHM (Hotel Management),UG,Hospitality & Catering Jobs,None,None,None,None,Core,Core,Strong service-orientation training
+BHMCT,UG,Hospitality & Catering Jobs,None,None,None,None,Core,Core,Hotel mgmt + catering technology
+B.Sc (Culinary Arts/Hospitality),UG,Hospitality & Catering Jobs,None,None,None,None,Core,Partial,Specialized hospitality/culinary skill
+MHM (Master of Hotel Management),PG,Hospitality & Catering Jobs,None,None,None,None,Core,Core,Advanced hospitality management
+MTTM (Tourism & Travel Management),PG,Hospitality & Catering Jobs,None,None,Partial,None,Core,Core,Tourism-specific service focus
+MBA (Hospitality),PG,Hospitality & Catering Jobs,None,None,Partial,None,Core,Core,Strategic hospitality management
+BA (English/Communications/Psychology),UG,Customer Services Jobs,None,None,None,None,Partial,Core,Strong communication/language foundation
+MA (Communications),PG,Customer Services Jobs,None,None,Partial,None,Partial,Core,Advanced communication practice
+PG Diploma in Customer Relationship Management,PG,Customer Services Jobs,None,None,Partial,None,Core,Core,Directly specialized CRM/service training
+B.Sc Mathematics,UG,IT Jobs,Partial,Partial,None,None,None,None,Elective-only programming; strong stats/logic core (see cited syllabus analysis)

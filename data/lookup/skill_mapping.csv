@@ -1,0 +1,79 @@
+skill,regex_pattern,skill_category
+SQL,\bsql\b,IT & Data
+Python,\bpython\b,IT & Data
+R Programming,\br\s+programming\b|\brstudio\b,IT & Data
+Excel,\bexcel\b|\bms\s*excel\b,IT & Data
+Advanced Excel,\badvanced\s+excel\b|\bpivot\s*tables?\b,IT & Data
+Power BI,\bpower\s*bi\b|\bpowerbi\b,IT & Data
+Tableau,\btableau\b,IT & Data
+Looker,\blooker\b,IT & Data
+Data Analysis,\bdata\s+analysis\b|\bdata\s+analytics\b,IT & Data
+Statistics,\bstatistic(s|al)?\b,IT & Data
+Data Visualization,\bdata\s+visuali[sz]ation\b,IT & Data
+Data Modeling,\bdata\s+model(l)?ing\b,IT & Data
+Business Intelligence,\bbusiness\s+intelligence\b|\bbi\s+tool\b,IT & Data
+Machine Learning,\bmachine\s+learning\b|\bml\b,IT & Data
+SAS,\bsas\b,IT & Data
+Java,\bjava\b(?!script),IT & Data
+JavaScript,\bjavascript\b,IT & Data
+Web Development,\bweb\s+development\b,IT & Data
+Computer Science Fundamentals,\bcomputer\s+science\b|\bdata\s+structures?\b,IT & Data
+Microsoft Access,\bms\s*access\b|\bmicrosoft\s+access\b,IT & Data
+ERP Software,\berp\b,IT & Data
+Salesforce,\bsalesforce\b,IT & Data
+A/B Testing,\ba/b\s+testing\b|\bexperimentation\b,IT & Data
+Accounting,\baccounting\b,Accounting & Finance
+Bookkeeping,\bbookkeeping\b,Accounting & Finance
+Tally,\btally\b,Accounting & Finance
+GST,\bgst\b,Accounting & Finance
+Accounts Payable,\baccounts?\s+payable\b,Accounting & Finance
+Accounts Receivable,\baccounts?\s+receivable\b,Accounting & Finance
+General Ledger,\bgeneral\s+ledger\b|\bledger\s+reconciliation\b,Accounting & Finance
+Financial Reporting,\bfinancial\s+reporting\b,Accounting & Finance
+Financial Analysis,\bfinancial\s+analysis\b,Accounting & Finance
+GAAP,\bgaap\b,Accounting & Finance
+Taxation,\btax(ation)?\b,Accounting & Finance
+Payroll,\bpayroll\b,Accounting & Finance
+Auditing,\baudit(ing)?\b,Accounting & Finance
+SAP,\bsap\b,Accounting & Finance
+Bank Reconciliation,\bbank\s+reconciliation\b,Accounting & Finance
+Sales,\bsales\b,Sales & Marketing
+Lead Generation,\blead\s+generation\b,Sales & Marketing
+CRM Software,\bcrm\b,Sales & Marketing
+Cold Calling,\bcold\s+calling\b,Sales & Marketing
+Business Development,\bbusiness\s+development\b,Sales & Marketing
+Negotiation,\bnegotiation\b,Sales & Marketing
+Digital Marketing,\bdigital\s+marketing\b,Sales & Marketing
+SEO,\bseo\b|\bsearch\s+engine\s+optimi[sz]ation\b,Sales & Marketing
+Google Ads,\bgoogle\s+ads\b|\bgoogle\s+adwords\b,Sales & Marketing
+Social Media Marketing,\bsocial\s+media\s+marketing\b|\bsmo\b,Sales & Marketing
+Email Marketing,\bemail\s+marketing\b,Sales & Marketing
+Content Creation,\bcontent\s+creation\b|\bcontent\s+writing\b,Sales & Marketing
+Market Research,\bmarket\s+research\b,Sales & Marketing
+B2B Marketing,\bb2b\b,Sales & Marketing
+Google Analytics,\bgoogle\s+analytics\b,Sales & Marketing
+Human Resources,\bhuman\s+resources?\b|\bhr\b,HR & Admin
+Talent Acquisition,\btalent\s+acquisition\b,HR & Admin
+Recruiting,\brecruit(ing|ment)?\b,HR & Admin
+HRIS,\bhris\b,HR & Admin
+Employee Relations,\bemployee\s+relations\b,HR & Admin
+Onboarding,\bonboarding\b,HR & Admin
+MS Office,\bms\s+office\b|\bmicrosoft\s+office\b,HR & Admin
+Administrative Support,\badministrative\s+(experience|support)\b,HR & Admin
+Organizational Skills,\borgani[sz]ational\s+skills?\b,HR & Admin
+Scheduling,\bscheduling\b|\bcalendar\s+management\b,HR & Admin
+Customer Service,\bcustomer\s+service\b|\bcustomer\s+support\b,Customer Service
+Call Centre,\bcall\s+cent(re|er)\b,Customer Service
+Typing Skills,\btyping\s+skills?\b,Customer Service
+Ticketing System,\bticketing\s+system\b,Customer Service
+Voice Process,\bvoice\s+process\b,Customer Service
+Communication Skills,\bcommunication\s+skills?\b,Soft Skills
+Problem Solving,\bproblem[- ]solving\b,Soft Skills
+Leadership,\bleadership\b,Soft Skills
+Project Management,\bproject\s+management\b,Soft Skills
+Time Management,\btime\s+management\b,Soft Skills
+Interpersonal Skills,\binterpersonal\s+skills?\b,Soft Skills
+Presentation Skills,\bpresentation\s+skills?\b,Soft Skills
+Analytical Skills,\banalytical\s+skills?\b,Soft Skills
+Multitasking,\bmultitask(ing)?\b,Soft Skills
+Teamwork,\bteamwork\b|\bteam\s+player\b,Soft Skills

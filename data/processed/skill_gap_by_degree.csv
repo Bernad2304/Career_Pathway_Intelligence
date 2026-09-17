@@ -1,0 +1,250 @@
+degree,primary_job_sector,skill,skill_category,market_posting_count,degree_coverage_level,gap_score
+B.Tech/B.E (CS/IT/AI/Software Engg),IT Jobs,SQL,IT & Data,75,Core,0.0
+B.Tech/B.E (CS/IT/AI/Software Engg),IT Jobs,Java,IT & Data,71,Core,0.0
+B.Tech/B.E (CS/IT/AI/Software Engg),IT Jobs,Python,IT & Data,47,Core,0.0
+B.Tech/B.E (CS/IT/AI/Software Engg),IT Jobs,JavaScript,IT & Data,38,Core,0.0
+B.Tech/B.E (CS/IT/AI/Software Engg),IT Jobs,Machine Learning,IT & Data,36,Core,0.0
+BCA,IT Jobs,SQL,IT & Data,75,Core,0.0
+BCA,IT Jobs,Java,IT & Data,71,Core,0.0
+BCA,IT Jobs,Python,IT & Data,47,Core,0.0
+BCA,IT Jobs,JavaScript,IT & Data,38,Core,0.0
+BCA,IT Jobs,Machine Learning,IT & Data,36,Core,0.0
+B.Sc (Computer Science/Data Science/IT),IT Jobs,SQL,IT & Data,75,Core,0.0
+B.Sc (Computer Science/Data Science/IT),IT Jobs,Java,IT & Data,71,Core,0.0
+B.Sc (Computer Science/Data Science/IT),IT Jobs,Python,IT & Data,47,Core,0.0
+B.Sc (Computer Science/Data Science/IT),IT Jobs,JavaScript,IT & Data,38,Core,0.0
+B.Sc (Computer Science/Data Science/IT),IT Jobs,Machine Learning,IT & Data,36,Core,0.0
+M.Tech/M.E (CS/AI/Data Science),IT Jobs,SQL,IT & Data,75,Core,0.0
+M.Tech/M.E (CS/AI/Data Science),IT Jobs,Java,IT & Data,71,Core,0.0
+M.Tech/M.E (CS/AI/Data Science),IT Jobs,Python,IT & Data,47,Core,0.0
+M.Tech/M.E (CS/AI/Data Science),IT Jobs,JavaScript,IT & Data,38,Core,0.0
+M.Tech/M.E (CS/AI/Data Science),IT Jobs,Machine Learning,IT & Data,36,Core,0.0
+MCA,IT Jobs,SQL,IT & Data,75,Core,0.0
+MCA,IT Jobs,Java,IT & Data,71,Core,0.0
+MCA,IT Jobs,Python,IT & Data,47,Core,0.0
+MCA,IT Jobs,JavaScript,IT & Data,38,Core,0.0
+MCA,IT Jobs,Machine Learning,IT & Data,36,Core,0.0
+M.Sc (CS/IT/Data Science),IT Jobs,SQL,IT & Data,75,Core,0.0
+M.Sc (CS/IT/Data Science),IT Jobs,Java,IT & Data,71,Core,0.0
+M.Sc (CS/IT/Data Science),IT Jobs,Python,IT & Data,47,Core,0.0
+M.Sc (CS/IT/Data Science),IT Jobs,JavaScript,IT & Data,38,Core,0.0
+M.Sc (CS/IT/Data Science),IT Jobs,Machine Learning,IT & Data,36,Core,0.0
+PGP in Business Analytics,IT Jobs,SQL,IT & Data,75,Core,0.0
+PGP in Business Analytics,IT Jobs,Java,IT & Data,71,Core,0.0
+PGP in Business Analytics,IT Jobs,Python,IT & Data,47,Core,0.0
+PGP in Business Analytics,IT Jobs,JavaScript,IT & Data,38,Core,0.0
+PGP in Business Analytics,IT Jobs,Machine Learning,IT & Data,36,Core,0.0
+BBA,Sales Jobs,Sales,Sales & Marketing,176,Partial,88.0
+BBA,Sales Jobs,Business Development,Sales & Marketing,55,Partial,27.5
+BBA,Sales Jobs,Lead Generation,Sales & Marketing,16,Partial,8.0
+BBA,Sales Jobs,Cold Calling,Sales & Marketing,14,Partial,7.0
+BBA,Sales Jobs,B2B Marketing,Sales & Marketing,12,Partial,6.0
+B.Com,Sales Jobs,Sales,Sales & Marketing,176,Partial,88.0
+B.Com,Sales Jobs,Business Development,Sales & Marketing,55,Partial,27.5
+B.Com,Sales Jobs,Lead Generation,Sales & Marketing,16,Partial,8.0
+B.Com,Sales Jobs,Cold Calling,Sales & Marketing,14,Partial,7.0
+B.Com,Sales Jobs,B2B Marketing,Sales & Marketing,12,Partial,6.0
+BMS,Sales Jobs,Sales,Sales & Marketing,176,Partial,88.0
+BMS,Sales Jobs,Business Development,Sales & Marketing,55,Partial,27.5
+BMS,Sales Jobs,Lead Generation,Sales & Marketing,16,Partial,8.0
+BMS,Sales Jobs,Cold Calling,Sales & Marketing,14,Partial,7.0
+BMS,Sales Jobs,B2B Marketing,Sales & Marketing,12,Partial,6.0
+BBM,Sales Jobs,Sales,Sales & Marketing,176,Partial,88.0
+BBM,Sales Jobs,Business Development,Sales & Marketing,55,Partial,27.5
+BBM,Sales Jobs,Lead Generation,Sales & Marketing,16,Partial,8.0
+BBM,Sales Jobs,Cold Calling,Sales & Marketing,14,Partial,7.0
+BBM,Sales Jobs,B2B Marketing,Sales & Marketing,12,Partial,6.0
+BA (Communications/Economics/Marketing),Sales Jobs,Sales,Sales & Marketing,176,Partial,88.0
+BA (Communications/Economics/Marketing),Sales Jobs,Business Development,Sales & Marketing,55,Partial,27.5
+BA (Communications/Economics/Marketing),Sales Jobs,Lead Generation,Sales & Marketing,16,Partial,8.0
+BA (Communications/Economics/Marketing),Sales Jobs,Cold Calling,Sales & Marketing,14,Partial,7.0
+BA (Communications/Economics/Marketing),Sales Jobs,B2B Marketing,Sales & Marketing,12,Partial,6.0
+Any UG degree,Sales Jobs,Sales,Sales & Marketing,176,None,176.0
+Any UG degree,Sales Jobs,Business Development,Sales & Marketing,55,None,55.0
+Any UG degree,Sales Jobs,Lead Generation,Sales & Marketing,16,None,16.0
+Any UG degree,Sales Jobs,Cold Calling,Sales & Marketing,14,None,14.0
+Any UG degree,Sales Jobs,B2B Marketing,Sales & Marketing,12,None,12.0
+MBA (Marketing/International Business),Sales Jobs,Sales,Sales & Marketing,176,Core,0.0
+MBA (Marketing/International Business),Sales Jobs,Business Development,Sales & Marketing,55,Core,0.0
+MBA (Marketing/International Business),Sales Jobs,Lead Generation,Sales & Marketing,16,Core,0.0
+MBA (Marketing/International Business),Sales Jobs,Cold Calling,Sales & Marketing,14,Core,0.0
+MBA (Marketing/International Business),Sales Jobs,B2B Marketing,Sales & Marketing,12,Core,0.0
+PGDM,Sales Jobs,Sales,Sales & Marketing,176,Partial,88.0
+PGDM,Sales Jobs,Business Development,Sales & Marketing,55,Partial,27.5
+PGDM,Sales Jobs,Lead Generation,Sales & Marketing,16,Partial,8.0
+PGDM,Sales Jobs,Cold Calling,Sales & Marketing,14,Partial,7.0
+PGDM,Sales Jobs,B2B Marketing,Sales & Marketing,12,Partial,6.0
+M.Com,Sales Jobs,Sales,Sales & Marketing,176,Partial,88.0
+M.Com,Sales Jobs,Business Development,Sales & Marketing,55,Partial,27.5
+M.Com,Sales Jobs,Lead Generation,Sales & Marketing,16,Partial,8.0
+M.Com,Sales Jobs,Cold Calling,Sales & Marketing,14,Partial,7.0
+M.Com,Sales Jobs,B2B Marketing,Sales & Marketing,12,Partial,6.0
+MIB (Master of International Business),Sales Jobs,Sales,Sales & Marketing,176,Core,0.0
+MIB (Master of International Business),Sales Jobs,Business Development,Sales & Marketing,55,Core,0.0
+MIB (Master of International Business),Sales Jobs,Lead Generation,Sales & Marketing,16,Core,0.0
+MIB (Master of International Business),Sales Jobs,Cold Calling,Sales & Marketing,14,Core,0.0
+MIB (Master of International Business),Sales Jobs,B2B Marketing,Sales & Marketing,12,Core,0.0
+B.Tech/B.E (Mechanical/Civil/EEE/ECE/Chemical/Aerospace/Robotics),Engineering Jobs,Recruiting,HR & Admin,8,None,8.0
+B.Tech/B.E (Mechanical/Civil/EEE/ECE/Chemical/Aerospace/Robotics),Engineering Jobs,Sales,Sales & Marketing,7,None,7.0
+B.Tech/B.E (Mechanical/Civil/EEE/ECE/Chemical/Aerospace/Robotics),Engineering Jobs,Leadership,Soft Skills,3,Partial,1.5
+B.Tech/B.E (Mechanical/Civil/EEE/ECE/Chemical/Aerospace/Robotics),Engineering Jobs,Computer Science Fundamentals,IT & Data,2,Partial,1.0
+B.Tech/B.E (Mechanical/Civil/EEE/ECE/Chemical/Aerospace/Robotics),Engineering Jobs,Auditing,Accounting & Finance,2,None,2.0
+B.Des,Engineering Jobs,Recruiting,HR & Admin,8,None,8.0
+B.Des,Engineering Jobs,Sales,Sales & Marketing,7,None,7.0
+B.Des,Engineering Jobs,Leadership,Soft Skills,3,Partial,1.5
+B.Des,Engineering Jobs,Computer Science Fundamentals,IT & Data,2,None,2.0
+B.Des,Engineering Jobs,Auditing,Accounting & Finance,2,None,2.0
+B.Arch,Engineering Jobs,Recruiting,HR & Admin,8,None,8.0
+B.Arch,Engineering Jobs,Sales,Sales & Marketing,7,None,7.0
+B.Arch,Engineering Jobs,Leadership,Soft Skills,3,Partial,1.5
+B.Arch,Engineering Jobs,Computer Science Fundamentals,IT & Data,2,None,2.0
+B.Arch,Engineering Jobs,Auditing,Accounting & Finance,2,None,2.0
+M.Tech/M.E (Structural/Thermal/Power Systems/VLSI/Robotics),Engineering Jobs,Recruiting,HR & Admin,8,None,8.0
+M.Tech/M.E (Structural/Thermal/Power Systems/VLSI/Robotics),Engineering Jobs,Sales,Sales & Marketing,7,None,7.0
+M.Tech/M.E (Structural/Thermal/Power Systems/VLSI/Robotics),Engineering Jobs,Leadership,Soft Skills,3,Partial,1.5
+M.Tech/M.E (Structural/Thermal/Power Systems/VLSI/Robotics),Engineering Jobs,Computer Science Fundamentals,IT & Data,2,Partial,1.0
+M.Tech/M.E (Structural/Thermal/Power Systems/VLSI/Robotics),Engineering Jobs,Auditing,Accounting & Finance,2,None,2.0
+M.Des,Engineering Jobs,Recruiting,HR & Admin,8,None,8.0
+M.Des,Engineering Jobs,Sales,Sales & Marketing,7,None,7.0
+M.Des,Engineering Jobs,Leadership,Soft Skills,3,Partial,1.5
+M.Des,Engineering Jobs,Computer Science Fundamentals,IT & Data,2,None,2.0
+M.Des,Engineering Jobs,Auditing,Accounting & Finance,2,None,2.0
+M.Arch,Engineering Jobs,Recruiting,HR & Admin,8,None,8.0
+M.Arch,Engineering Jobs,Sales,Sales & Marketing,7,None,7.0
+M.Arch,Engineering Jobs,Leadership,Soft Skills,3,Partial,1.5
+M.Arch,Engineering Jobs,Computer Science Fundamentals,IT & Data,2,None,2.0
+M.Arch,Engineering Jobs,Auditing,Accounting & Finance,2,None,2.0
+B.Com (Hons),Accounting & Finance Jobs,Accounting,Accounting & Finance,28,Core,0.0
+B.Com (Hons),Accounting & Finance Jobs,Taxation,Accounting & Finance,19,Core,0.0
+B.Com (Hons),Accounting & Finance Jobs,Auditing,Accounting & Finance,19,Core,0.0
+B.Com (Hons),Accounting & Finance Jobs,Sales,Sales & Marketing,15,Partial,7.5
+B.Com (Hons),Accounting & Finance Jobs,Leadership,Soft Skills,8,None,8.0
+B.Com (Accounting & Finance),Accounting & Finance Jobs,Accounting,Accounting & Finance,28,Core,0.0
+B.Com (Accounting & Finance),Accounting & Finance Jobs,Taxation,Accounting & Finance,19,Core,0.0
+B.Com (Accounting & Finance),Accounting & Finance Jobs,Auditing,Accounting & Finance,19,Core,0.0
+B.Com (Accounting & Finance),Accounting & Finance Jobs,Sales,Sales & Marketing,15,None,15.0
+B.Com (Accounting & Finance),Accounting & Finance Jobs,Leadership,Soft Skills,8,None,8.0
+BBA (Finance),Accounting & Finance Jobs,Accounting,Accounting & Finance,28,Core,0.0
+BBA (Finance),Accounting & Finance Jobs,Taxation,Accounting & Finance,19,Core,0.0
+BBA (Finance),Accounting & Finance Jobs,Auditing,Accounting & Finance,19,Core,0.0
+BBA (Finance),Accounting & Finance Jobs,Sales,Sales & Marketing,15,Partial,7.5
+BBA (Finance),Accounting & Finance Jobs,Leadership,Soft Skills,8,Partial,4.0
+B.Sc (Statistics/Actuarial Science),Accounting & Finance Jobs,Accounting,Accounting & Finance,28,Partial,14.0
+B.Sc (Statistics/Actuarial Science),Accounting & Finance Jobs,Taxation,Accounting & Finance,19,Partial,9.5
+B.Sc (Statistics/Actuarial Science),Accounting & Finance Jobs,Auditing,Accounting & Finance,19,Partial,9.5
+B.Sc (Statistics/Actuarial Science),Accounting & Finance Jobs,Sales,Sales & Marketing,15,None,15.0
+B.Sc (Statistics/Actuarial Science),Accounting & Finance Jobs,Leadership,Soft Skills,8,None,8.0
+M.Com,Accounting & Finance Jobs,Accounting,Accounting & Finance,28,Core,0.0
+M.Com,Accounting & Finance Jobs,Taxation,Accounting & Finance,19,Core,0.0
+M.Com,Accounting & Finance Jobs,Auditing,Accounting & Finance,19,Core,0.0
+M.Com,Accounting & Finance Jobs,Sales,Sales & Marketing,15,Partial,7.5
+M.Com,Accounting & Finance Jobs,Leadership,Soft Skills,8,None,8.0
+MBA (Finance),Accounting & Finance Jobs,Accounting,Accounting & Finance,28,Core,0.0
+MBA (Finance),Accounting & Finance Jobs,Taxation,Accounting & Finance,19,Core,0.0
+MBA (Finance),Accounting & Finance Jobs,Auditing,Accounting & Finance,19,Core,0.0
+MBA (Finance),Accounting & Finance Jobs,Sales,Sales & Marketing,15,Partial,7.5
+MBA (Finance),Accounting & Finance Jobs,Leadership,Soft Skills,8,Core,0.0
+Master of Financial Management (MFM),Accounting & Finance Jobs,Accounting,Accounting & Finance,28,Core,0.0
+Master of Financial Management (MFM),Accounting & Finance Jobs,Taxation,Accounting & Finance,19,Core,0.0
+Master of Financial Management (MFM),Accounting & Finance Jobs,Auditing,Accounting & Finance,19,Core,0.0
+Master of Financial Management (MFM),Accounting & Finance Jobs,Sales,Sales & Marketing,15,None,15.0
+Master of Financial Management (MFM),Accounting & Finance Jobs,Leadership,Soft Skills,8,Partial,4.0
+M.Sc (Finance/Actuarial Science),Accounting & Finance Jobs,Accounting,Accounting & Finance,28,Core,0.0
+M.Sc (Finance/Actuarial Science),Accounting & Finance Jobs,Taxation,Accounting & Finance,19,Core,0.0
+M.Sc (Finance/Actuarial Science),Accounting & Finance Jobs,Auditing,Accounting & Finance,19,Core,0.0
+M.Sc (Finance/Actuarial Science),Accounting & Finance Jobs,Sales,Sales & Marketing,15,None,15.0
+M.Sc (Finance/Actuarial Science),Accounting & Finance Jobs,Leadership,Soft Skills,8,None,8.0
+BBA (HR),HR & Recruitment Jobs,Human Resources,HR & Admin,17,Core,0.0
+BBA (HR),HR & Recruitment Jobs,Recruiting,HR & Admin,10,Core,0.0
+BBA (HR),HR & Recruitment Jobs,Talent Acquisition,HR & Admin,6,Core,0.0
+BBA (HR),HR & Recruitment Jobs,Sales,Sales & Marketing,4,None,4.0
+BBA (HR),HR & Recruitment Jobs,Communication Skills,Soft Skills,3,Partial,1.5
+BA (Psychology/Sociology/Organizational Psychology),HR & Recruitment Jobs,Human Resources,HR & Admin,17,Partial,8.5
+BA (Psychology/Sociology/Organizational Psychology),HR & Recruitment Jobs,Recruiting,HR & Admin,10,Partial,5.0
+BA (Psychology/Sociology/Organizational Psychology),HR & Recruitment Jobs,Talent Acquisition,HR & Admin,6,Partial,3.0
+BA (Psychology/Sociology/Organizational Psychology),HR & Recruitment Jobs,Sales,Sales & Marketing,4,None,4.0
+BA (Psychology/Sociology/Organizational Psychology),HR & Recruitment Jobs,Communication Skills,Soft Skills,3,Core,0.0
+BSW,HR & Recruitment Jobs,Human Resources,HR & Admin,17,Partial,8.5
+BSW,HR & Recruitment Jobs,Recruiting,HR & Admin,10,Partial,5.0
+BSW,HR & Recruitment Jobs,Talent Acquisition,HR & Admin,6,Partial,3.0
+BSW,HR & Recruitment Jobs,Sales,Sales & Marketing,4,None,4.0
+BSW,HR & Recruitment Jobs,Communication Skills,Soft Skills,3,Core,0.0
+MBA (HRM),HR & Recruitment Jobs,Human Resources,HR & Admin,17,Core,0.0
+MBA (HRM),HR & Recruitment Jobs,Recruiting,HR & Admin,10,Core,0.0
+MBA (HRM),HR & Recruitment Jobs,Talent Acquisition,HR & Admin,6,Core,0.0
+MBA (HRM),HR & Recruitment Jobs,Sales,Sales & Marketing,4,None,4.0
+MBA (HRM),HR & Recruitment Jobs,Communication Skills,Soft Skills,3,Core,0.0
+Master of Human Resource Management (MHRM),HR & Recruitment Jobs,Human Resources,HR & Admin,17,Core,0.0
+Master of Human Resource Management (MHRM),HR & Recruitment Jobs,Recruiting,HR & Admin,10,Core,0.0
+Master of Human Resource Management (MHRM),HR & Recruitment Jobs,Talent Acquisition,HR & Admin,6,Core,0.0
+Master of Human Resource Management (MHRM),HR & Recruitment Jobs,Sales,Sales & Marketing,4,None,4.0
+Master of Human Resource Management (MHRM),HR & Recruitment Jobs,Communication Skills,Soft Skills,3,Partial,1.5
+MA (Organizational Psychology),HR & Recruitment Jobs,Human Resources,HR & Admin,17,Partial,8.5
+MA (Organizational Psychology),HR & Recruitment Jobs,Recruiting,HR & Admin,10,Partial,5.0
+MA (Organizational Psychology),HR & Recruitment Jobs,Talent Acquisition,HR & Admin,6,Partial,3.0
+MA (Organizational Psychology),HR & Recruitment Jobs,Sales,Sales & Marketing,4,None,4.0
+MA (Organizational Psychology),HR & Recruitment Jobs,Communication Skills,Soft Skills,3,Core,0.0
+MSW,HR & Recruitment Jobs,Human Resources,HR & Admin,17,Partial,8.5
+MSW,HR & Recruitment Jobs,Recruiting,HR & Admin,10,Partial,5.0
+MSW,HR & Recruitment Jobs,Talent Acquisition,HR & Admin,6,Partial,3.0
+MSW,HR & Recruitment Jobs,Sales,Sales & Marketing,4,None,4.0
+MSW,HR & Recruitment Jobs,Communication Skills,Soft Skills,3,Core,0.0
+BA (Public Administration/Office Management),Admin Jobs,Onboarding,HR & Admin,3,Partial,1.5
+BA (Public Administration/Office Management),Admin Jobs,Excel,IT & Data,3,None,3.0
+BA (Public Administration/Office Management),Admin Jobs,MS Office,HR & Admin,3,Partial,1.5
+BA (Public Administration/Office Management),Admin Jobs,Administrative Support,HR & Admin,2,Partial,1.0
+BA (Public Administration/Office Management),Admin Jobs,SAP,Accounting & Finance,2,None,2.0
+MBA (Operations/General Management),Admin Jobs,Onboarding,HR & Admin,3,Partial,1.5
+MBA (Operations/General Management),Admin Jobs,Excel,IT & Data,3,Partial,1.5
+MBA (Operations/General Management),Admin Jobs,MS Office,HR & Admin,3,Partial,1.5
+MBA (Operations/General Management),Admin Jobs,Administrative Support,HR & Admin,2,Partial,1.0
+MBA (Operations/General Management),Admin Jobs,SAP,Accounting & Finance,2,None,2.0
+MA (Public Administration),Admin Jobs,Onboarding,HR & Admin,3,Partial,1.5
+MA (Public Administration),Admin Jobs,Excel,IT & Data,3,None,3.0
+MA (Public Administration),Admin Jobs,MS Office,HR & Admin,3,Partial,1.5
+MA (Public Administration),Admin Jobs,Administrative Support,HR & Admin,2,Partial,1.0
+MA (Public Administration),Admin Jobs,SAP,Accounting & Finance,2,None,2.0
+BHM (Hotel Management),Hospitality & Catering Jobs,Sales,Sales & Marketing,1,None,1.0
+BHM (Hotel Management),Hospitality & Catering Jobs,Teamwork,Soft Skills,1,Core,0.0
+BHM (Hotel Management),Hospitality & Catering Jobs,Customer Service,Customer Service,1,Core,0.0
+BHM (Hotel Management),Hospitality & Catering Jobs,Interpersonal Skills,Soft Skills,1,Core,0.0
+BHMCT,Hospitality & Catering Jobs,Sales,Sales & Marketing,1,None,1.0
+BHMCT,Hospitality & Catering Jobs,Teamwork,Soft Skills,1,Core,0.0
+BHMCT,Hospitality & Catering Jobs,Customer Service,Customer Service,1,Core,0.0
+BHMCT,Hospitality & Catering Jobs,Interpersonal Skills,Soft Skills,1,Core,0.0
+B.Sc (Culinary Arts/Hospitality),Hospitality & Catering Jobs,Sales,Sales & Marketing,1,None,1.0
+B.Sc (Culinary Arts/Hospitality),Hospitality & Catering Jobs,Teamwork,Soft Skills,1,Partial,0.5
+B.Sc (Culinary Arts/Hospitality),Hospitality & Catering Jobs,Customer Service,Customer Service,1,Core,0.0
+B.Sc (Culinary Arts/Hospitality),Hospitality & Catering Jobs,Interpersonal Skills,Soft Skills,1,Partial,0.5
+MHM (Master of Hotel Management),Hospitality & Catering Jobs,Sales,Sales & Marketing,1,None,1.0
+MHM (Master of Hotel Management),Hospitality & Catering Jobs,Teamwork,Soft Skills,1,Core,0.0
+MHM (Master of Hotel Management),Hospitality & Catering Jobs,Customer Service,Customer Service,1,Core,0.0
+MHM (Master of Hotel Management),Hospitality & Catering Jobs,Interpersonal Skills,Soft Skills,1,Core,0.0
+MTTM (Tourism & Travel Management),Hospitality & Catering Jobs,Sales,Sales & Marketing,1,Partial,0.5
+MTTM (Tourism & Travel Management),Hospitality & Catering Jobs,Teamwork,Soft Skills,1,Core,0.0
+MTTM (Tourism & Travel Management),Hospitality & Catering Jobs,Customer Service,Customer Service,1,Core,0.0
+MTTM (Tourism & Travel Management),Hospitality & Catering Jobs,Interpersonal Skills,Soft Skills,1,Core,0.0
+MBA (Hospitality),Hospitality & Catering Jobs,Sales,Sales & Marketing,1,Partial,0.5
+MBA (Hospitality),Hospitality & Catering Jobs,Teamwork,Soft Skills,1,Core,0.0
+MBA (Hospitality),Hospitality & Catering Jobs,Customer Service,Customer Service,1,Core,0.0
+MBA (Hospitality),Hospitality & Catering Jobs,Interpersonal Skills,Soft Skills,1,Core,0.0
+BA (English/Communications/Psychology),Customer Services Jobs,Customer Service,Customer Service,19,Partial,9.5
+BA (English/Communications/Psychology),Customer Services Jobs,Voice Process,Customer Service,11,Partial,5.5
+BA (English/Communications/Psychology),Customer Services Jobs,Communication Skills,Soft Skills,4,Core,0.0
+BA (English/Communications/Psychology),Customer Services Jobs,Call Centre,Customer Service,3,Partial,1.5
+BA (English/Communications/Psychology),Customer Services Jobs,CRM Software,Sales & Marketing,3,None,3.0
+MA (Communications),Customer Services Jobs,Customer Service,Customer Service,19,Partial,9.5
+MA (Communications),Customer Services Jobs,Voice Process,Customer Service,11,Partial,5.5
+MA (Communications),Customer Services Jobs,Communication Skills,Soft Skills,4,Core,0.0
+MA (Communications),Customer Services Jobs,Call Centre,Customer Service,3,Partial,1.5
+MA (Communications),Customer Services Jobs,CRM Software,Sales & Marketing,3,Partial,1.5
+PG Diploma in Customer Relationship Management,Customer Services Jobs,Customer Service,Customer Service,19,Core,0.0
+PG Diploma in Customer Relationship Management,Customer Services Jobs,Voice Process,Customer Service,11,Core,0.0
+PG Diploma in Customer Relationship Management,Customer Services Jobs,Communication Skills,Soft Skills,4,Core,0.0
+PG Diploma in Customer Relationship Management,Customer Services Jobs,Call Centre,Customer Service,3,Core,0.0
+PG Diploma in Customer Relationship Management,Customer Services Jobs,CRM Software,Sales & Marketing,3,Partial,1.5
+B.Sc Mathematics,IT Jobs,SQL,IT & Data,75,Partial,37.5
+B.Sc Mathematics,IT Jobs,Java,IT & Data,71,Partial,35.5
+B.Sc Mathematics,IT Jobs,Python,IT & Data,47,Partial,23.5
+B.Sc Mathematics,IT Jobs,JavaScript,IT & Data,38,Partial,19.0
+B.Sc Mathematics,IT Jobs,Machine Learning,IT & Data,36,Partial,18.0
