@@ -1,0 +1,212 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "weeks",
+              "triggerAtDay": [
+                1
+              ],
+              "triggerAtHour": 6
+            }
+          ]
+        }
+      },
+      "id": "491c8fd7-27b2-4836-846f-5f530a5c5c7d",
+      "name": "Weekly Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        1456,
+        -144
+      ]
+    },
+    {
+      "parameters": {
+        "command": "cmd /c \"cd /d C:\\Users\\HP\\Documents\\career-pathway-intelligence && venv\\Scripts\\python.exe scripts\\00_extract_adzuna_jobs.py\""
+      },
+      "id": "e330415f-8334-407a-b4c7-4c49937a227d",
+      "name": "00 Extract Adzuna Jobs",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        1664,
+        -144
+      ]
+    },
+    {
+      "parameters": {
+        "command": "cmd /c \"cd /d C:\\Users\\HP\\Documents\\career-pathway-intelligence && venv\\Scripts\\python.exe scripts\\01_extract_skills.py\""
+      },
+      "id": "34f0c5ef-d996-4ba6-847f-05e903ca831e",
+      "name": "01 Extract Skills",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        1904,
+        -144
+      ]
+    },
+    {
+      "parameters": {
+        "command": "cmd /c \"cd /d C:\\Users\\HP\\Documents\\career-pathway-intelligence && venv\\Scripts\\python.exe scripts\\02_build_kpi_summary.py\""
+      },
+      "id": "c0a54ccf-deb1-4417-b38c-cda23f0b578c",
+      "name": "02 Build KPI Summary",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        2144,
+        -144
+      ]
+    },
+    {
+      "parameters": {
+        "command": "cmd /c \"cd /d C:\\Users\\HP\\Documents\\career-pathway-intelligence && venv\\Scripts\\python.exe scripts\\03_skill_gap_analysis.py\""
+      },
+      "id": "421e0ede-3464-4786-9631-e8afbfd4c13d",
+      "name": "03 Skill Gap Analysis",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        2384,
+        -144
+      ]
+    },
+    {
+      "parameters": {
+        "command": "cmd /c \"cd /d C:\\Users\\HP\\Documents\\career-pathway-intelligence && venv\\Scripts\\python.exe scripts\\04_merge_for_powerbi.py\""
+      },
+      "id": "4708ac5f-7949-4dec-9457-dcf7db35cfdc",
+      "name": "04 Merge For PowerBI",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        2640,
+        -144
+      ]
+    },
+    {
+      "parameters": {
+        "command": "cmd /c \"cd /d C:\\Users\\HP\\Documents\\career-pathway-intelligence && venv\\Scripts\\python.exe scripts\\04_job_listing.py\""
+      },
+      "id": "0a854882-e854-438c-b16e-a2198befc6cf",
+      "name": "Job Listing Cleanup",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        2864,
+        -144
+      ]
+    },
+    {
+      "parameters": {
+        "sendTo": "bernadj409@gmail.com",
+        "subject": "Career Pathway Pipeline — Weekly Run Successful",
+        "message": "The weekly pipeline completed successfully.\n\nAll 6 scripts ran without errors. Refreshed files are ready in outputs/powerbi/. Open Power BI Desktop and click Refresh.",
+        "options": {}
+      },
+      "id": "ed8ca88d-7927-41e7-bdc5-8712ac6562f9",
+      "name": "Success Email",
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [
+        3104,
+        -144
+      ],
+      "webhookId": "0422f523-80d7-43a1-b048-05385e9a2248",
+      "credentials": {
+        "gmailOAuth2": {
+          "id": "w5nId1UpPw5nhQUV",
+          "name": "Gmail account 2"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Weekly Trigger": {
+      "main": [
+        [
+          {
+            "node": "00 Extract Adzuna Jobs",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "00 Extract Adzuna Jobs": {
+      "main": [
+        [
+          {
+            "node": "01 Extract Skills",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "01 Extract Skills": {
+      "main": [
+        [
+          {
+            "node": "02 Build KPI Summary",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "02 Build KPI Summary": {
+      "main": [
+        [
+          {
+            "node": "03 Skill Gap Analysis",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "03 Skill Gap Analysis": {
+      "main": [
+        [
+          {
+            "node": "04 Merge For PowerBI",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "04 Merge For PowerBI": {
+      "main": [
+        [
+          {
+            "node": "Job Listing Cleanup",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Job Listing Cleanup": {
+      "main": [
+        [
+          {
+            "node": "Success Email",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "2ff25eccc4b06d58c54e74b8ce42626f5231eab4996a8588dac3d9e3f563dab0"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "afcbe1f2-6d1e-49a5-8e33-79a6017c1d0e",
+      "name": "Error Trigger",
+      "type": "n8n-nodes-base.errorTrigger",
+      "typeVersion": 1,
+      "position": [
+        144,
+        -112
+      ]
+    },
+    {
+      "parameters": {
+        "sendTo": "bernadj409@gmail.com",
+        "subject": "Career Pathway Pipeline — FAILED",
+        "message": "The weekly pipeline failed.\n\nWorkflow: {{$json[\"workflow\"][\"name\"]}}\nError: {{$json[\"execution\"][\"error\"][\"message\"]}}\n\nCheck n8n's execution log for full details.",
+        "options": {}
+      },
+      "id": "62bea772-5a7d-4905-bfc1-e1b8537ecfea",
+      "name": "Failure Email",
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [
+        384,
+        -112
+      ],
+      "webhookId": "19f708e7-eeae-4ee5-b381-4279ec3eb1a2",
+      "credentials": {
+        "gmailOAuth2": {
+          "id": "w5nId1UpPw5nhQUV",
+          "name": "Gmail account 2"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Error Trigger": {
+      "main": [
+        [
+          {
+            "node": "Failure Email",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "2ff25eccc4b06d58c54e74b8ce42626f5231eab4996a8588dac3d9e3f563dab0"
+  }
+}
