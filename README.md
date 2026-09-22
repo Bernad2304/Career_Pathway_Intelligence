@@ -89,11 +89,25 @@ Leadership (73 mentions) and Communication (51 mentions) both outrank several ha
 
 ## 📸 Visual Gallery
 
-### Overview Dashboard
-<p align="center"><img src="./Images/overview_dashboard.png" width="800"></p>
+### Overview
+High-level snapshot of the job market dataset — entry point for the rest of the dashboard.
+<p align="center"><img src="./Images/Overview.png" width="800"></p>
+
+### Skill Demand Deep-Dive
+Breaks down the most-requested skills across all 1,932 postings — Java, Python, SQL, and JavaScript lead the IT category.
+<p align="center"><img src="./Images/Skill Demand Deep-Drive.png" width="800"></p>
 
 ### Skill Gap by Degree
-<p align="center"><img src="./Images/skill_gap_dashboard.png" width="800"></p>
+The core finding: Gap Scores across all 56 degree programs against real hiring demand, including the B.Sc Mathematics Gap Score of 146.
+<p align="center"><img src="./Images/Skill Gap by Degree.png" width="800"></p>
+
+### My Degree Drill-Down
+A focused, single-degree view — lets a graduate pick their own degree and see exactly which skills close their personal gap.
+<p align="center"><img src="./Images/My Degree Drill-Down.png" width="800"></p>
+
+### Job Postings Explorer
+Browse and filter the underlying 1,932 postings directly — by category, skill, or company disclosure status.
+<p align="center"><img src="./Images/Job Postings Explorer.png" width="800"></p>
 
 ---
 
